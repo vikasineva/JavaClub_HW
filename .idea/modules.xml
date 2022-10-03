@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2.iml" filepath="$PROJECT_DIR$/HW2/HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2_Task1/HW2_Task1.iml" filepath="$PROJECT_DIR$/HW2/HW2_Task1/HW2_Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2_Task2/HW2_Task2.iml" filepath="$PROJECT_DIR$/HW2/HW2_Task2/HW2_Task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2_Task3/HW2_Task3.iml" filepath="$PROJECT_DIR$/HW2/HW2_Task3/HW2_Task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2_Task4/HW2_Task4.iml" filepath="$PROJECT_DIR$/HW2/HW2_Task4/HW2_Task4.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftServe.iml" filepath="$PROJECT_DIR$/SoftServe.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW1/Task1/Task1.iml" filepath="$PROJECT_DIR$/HW1/Task1/Task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW1/Task2/Task2.iml" filepath="$PROJECT_DIR$/HW1/Task2/Task2.iml" />
